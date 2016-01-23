@@ -1,44 +1,159 @@
 [
+{
+  
+},
   {
-
-  },
-  {
-    "id": 168,
-    "user_id": 452,
-    "reference_number": "ANO491",
+    "id": 170,
+    "user_id": 453,
+    "reference_number": "FRO575",
     "date": "2016-01-23T00:00:00.000+05:30",
-    "event_id": 1619,
+    "event_id": 1425,
     "sports_event_id": null,
     "status": "ACTIVE",
-    "number_of_tickets": 5,
+    "number_of_tickets": 1,
     "is_deleted": false,
-    "created_at": "2016-01-23T16:52:12.489+05:30",
-    "updated_at": "2016-01-23T16:52:12.489+05:30",
+    "created_at": "2016-01-23T18:46:11.296+05:30",
+    "updated_at": "2016-01-23T18:46:11.296+05:30",
     "booking_type": "pre",
-    "couple_count": 2,
+    "couple_count": 0,
     "male_count": 1,
     "female_count": 0,
     "total": 0,
     "user_name": null,
     "is_cover_charge": false,
     "event_details": {
-      "id": 1619,
-      "name": "Neon Vibes",
-      "description": "#Pune #PartyPeople Your weekend dose of an ultimate party is here. \r\nWe present to you the Greatest Neon Themed Party you have ever seen in this town. So Dress your Best & Dance till you drop with everything you got.\r\n\r\nMain Artist: DJ Clef\r\n\r\nClef, a notable personality with a single goal to entertain as many people as possible, with his Commercial & Bolly Vibes. As a DJ he is irresistible. Put him in a DJ Booth and instant interaction and chemistry is there with an eye for the party people. He is known for his versatility in music, best technical skills and instant connection with the audience.",
+      "id": 1425,
+      "name": "EDM Saturday",
+      "description": "Are you ready to get bombed tonight ?! Swing by the Social bar & have a crazy Saturday night with Abhishek Mantri's team belting out the perfect mix & our bar spoiling you for choice!",
       "date": "2016-01-23",
       "time": "2000-01-01T20:00:00.000Z",
-      "created_at": "2016-01-16T00:42:29.023+05:30",
-      "updated_at": "2016-01-21T16:45:37.774+05:30",
+      "created_at": "2015-12-27T23:30:25.497+05:30",
+      "updated_at": "2016-01-17T23:30:14.005+05:30",
       "event_images": [
         {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/event/event_images/1619/Neon_Themed2.jpg"
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/event/event_images/1425/images__7_.jpg"
         }
       ],
       "category": "NIGHTLIFE",
-      "bar_id": 39,
+      "bar_id": 44,
+      "active": true,
+      "repeat": true,
+      "cost": 0,
+      "priority": 2,
+      "cost_note": "",
+      "tonite": true,
+      "is_booking_allowed": true,
+      "confirmed": null,
+      "confirmed_at": null,
+      "updated_by_bar_admin": false,
+      "subcategories": "DJ Night",
+      "league": "",
+      "team_a": "",
+      "team_b": "",
+      "status": "ACTIVE"
+    },
+    "bar": {
+      "id": 44,
+      "name": "Frozen Monkey",
+      "address": " Lobby Level, The E-Square Hotel, 132 A, Shivaji Nagar, Pune",
+      "city": "Pune",
+      "avg_cost_for_2": 1200,
+      "bar_type": "Lounge Bar",
+      "price_range": "₹₹ (1000/- to 2000/-)",
+      "avg_rating": 0,
+      "created_at": "2015-09-11T14:59:18.127+05:30",
+      "updated_at": "2015-12-19T12:36:09.815+05:30",
+      "food_menu_images": [
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/44/f1.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/44/f2_.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/44/f3.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/44/f4.jpg"
+        }
+      ],
+      "bar_images": [
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_images/44/bar_image.jpg"
+        }
+      ],
+      "dance_floor": true,
+      "contact": "9673339397",
+      "bar_menu_images": [
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/44/b1.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/44/b2.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/44/b3.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/44/b4.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/44/b5.jpg"
+        }
+      ],
+      "opening_hours_days": null,
+      "location_long": "73.8356694",
+      "location_lati": "18.53821",
+      "short_address": "Shivaji Nagar",
+      "food_recommendation_1": "Crunchy Rock Shrimps",
+      "food_recommendation_2": "Chicken 69",
+      "food_recommendation_3": "Kheema Pao",
+      "bar_recommendation_1": "Smokey Monkey Goblet",
+      "bar_recommendation_2": "Two Lost Monkeys",
+      "bar_recommendation_3": "Mud Slide",
+      "decibel": "Medium",
+      "email": "manager@frozenmonkey.in",
+      "beer_pint": 165,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "id": 171,
+    "user_id": 453,
+    "reference_number": "BLU642",
+    "date": "2016-01-23T00:00:00.000+05:30",
+    "event_id": 1664,
+    "sports_event_id": null,
+    "status": "ACTIVE",
+    "number_of_tickets": 1,
+    "is_deleted": false,
+    "created_at": "2016-01-23T19:06:45.644+05:30",
+    "updated_at": "2016-01-23T19:06:45.644+05:30",
+    "booking_type": "pre",
+    "couple_count": 0,
+    "male_count": 0,
+    "female_count": 1,
+    "total": 0,
+    "user_name": null,
+    "is_cover_charge": false,
+    "event_details": {
+      "id": 1664,
+      "name": "PSYlent Sunday",
+      "description": "One day folks, one day.\r\n\r\nThe biggest psytrance party of 2016 yet, and it's going to blow you away! PSYlent Sunday is back with episode 6. You know the line-up, you know the drill. See you at theFROG!",
+      "date": "2016-01-24",
+      "time": "2000-01-01T18:00:00.000Z",
+      "created_at": "2016-01-23T18:08:05.066+05:30",
+      "updated_at": "2016-01-23T18:08:05.066+05:30",
+      "event_images": [
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/event/event_images/1664/psylent_1.jpg"
+        }
+      ],
+      "category": "NIGHTLIFE",
+      "bar_id": 34,
       "active": true,
       "repeat": false,
-      "cost": 0,
+      "cost": 500,
       "priority": null,
       "cost_note": "15% Off on FnB",
       "tonite": true,
@@ -53,112 +168,55 @@
       "status": "ACTIVE"
     },
     "bar": {
-      "id": 39,
-      "name": "Anonymous Cafe Bar",
-      "address": "8th Floor, B-3, Cerebrum (D-Mart Building), Kumar IT Park, Opposite Cybage",
+      "id": 34,
+      "name": "blueFROG",
+      "address": "Ishanya Mall, Arcade 6, Opp. Golf Course, Off Airport Road, Pune",
       "city": "Pune",
-      "avg_cost_for_2": 1100,
+      "avg_cost_for_2": 2400,
       "bar_type": "Lounge Bar",
-      "price_range": "₹₹ (1000/- to 2000/-)",
+      "price_range": "₹₹₹ (>2000/-)",
       "avg_rating": 0,
-      "created_at": "2015-08-15T01:10:38.507+05:30",
-      "updated_at": "2015-12-19T12:13:23.389+05:30",
+      "created_at": "2015-08-06T22:39:02.031+05:30",
+      "updated_at": "2015-12-18T18:40:21.236+05:30",
       "food_menu_images": [
         {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f1.jpg"
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/34/F1.jpg"
         },
         {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f2.jpg"
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/34/F2.jpg"
         },
         {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f3.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f4.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f5.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f6.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f7.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f8.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f9.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f10.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f11.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f12.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f13.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f14.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f15.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f16.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f17.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f18.jpg"
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/34/F3.jpg"
         }
       ],
       "bar_images": [
         {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_images/39/Bar_Image.jpg"
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_images/34/BAR_IMAGE.jpg"
         }
       ],
-      "dance_floor": false,
-      "contact": "584",
+      "dance_floor": true,
+      "contact": "9820122022",
       "bar_menu_images": [
         {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b1.jpg"
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/34/B1.jpg"
         },
         {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b2.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b3.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b4.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b5.jpg"
-        },
-        {
-          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b6.jpg"
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/34/B2.jpg"
         }
       ],
       "opening_hours_days": null,
-      "location_long": "73.9113349",
-      "location_lati": "18.5446978",
-      "short_address": "Kalyani Nagar",
-      "food_recommendation_1": "Veg Platter",
-      "food_recommendation_2": "Mix Platter",
-      "food_recommendation_3": "Non veg Platter",
-      "bar_recommendation_1": "Chiquito (Non Veg)",
-      "bar_recommendation_2": "Waquila",
-      "bar_recommendation_3": "Wicked Broz",
-      "decibel": "High",
-      "email": "",
-      "beer_pint": 150,
+      "location_long": "73.8948204",
+      "location_lati": "18.556803",
+      "short_address": "Yerawada",
+      "food_recommendation_1": "Shotgun Chicken",
+      "food_recommendation_2": "Wood fire grilled pizzas",
+      "food_recommendation_3": " Veg. Golati Kebabs",
+      "bar_recommendation_1": "megaFROG",
+      "bar_recommendation_2": "Get Fresh Cocktail",
+      "bar_recommendation_3": "OF gold cocktail",
+      "decibel": "Medium",
+      "email": "rahul@bluefrogpune.co.in",
+      "beer_pint": 200,
       "status": "ACTIVE"
     }
   }
