@@ -1,6 +1,165 @@
-{
-	"chat_data":{
-	"description":"Confused about where to go?\nFacing difficulty in planning the Team Dinner?\nASK OUR EXPERT.",
-	"phone":"+919703735566"
-	}
-}
+[
+  {
+
+  },
+  {
+    "id": 168,
+    "user_id": 452,
+    "reference_number": "ANO491",
+    "date": "2016-01-23T00:00:00.000+05:30",
+    "event_id": 1619,
+    "sports_event_id": null,
+    "status": "ACTIVE",
+    "number_of_tickets": 5,
+    "is_deleted": false,
+    "created_at": "2016-01-23T16:52:12.489+05:30",
+    "updated_at": "2016-01-23T16:52:12.489+05:30",
+    "booking_type": "pre",
+    "couple_count": 2,
+    "male_count": 1,
+    "female_count": 0,
+    "total": 0,
+    "user_name": null,
+    "is_cover_charge": false,
+    "event_details": {
+      "id": 1619,
+      "name": "Neon Vibes",
+      "description": "#Pune #PartyPeople Your weekend dose of an ultimate party is here. \r\nWe present to you the Greatest Neon Themed Party you have ever seen in this town. So Dress your Best & Dance till you drop with everything you got.\r\n\r\nMain Artist: DJ Clef\r\n\r\nClef, a notable personality with a single goal to entertain as many people as possible, with his Commercial & Bolly Vibes. As a DJ he is irresistible. Put him in a DJ Booth and instant interaction and chemistry is there with an eye for the party people. He is known for his versatility in music, best technical skills and instant connection with the audience.",
+      "date": "2016-01-23",
+      "time": "2000-01-01T20:00:00.000Z",
+      "created_at": "2016-01-16T00:42:29.023+05:30",
+      "updated_at": "2016-01-21T16:45:37.774+05:30",
+      "event_images": [
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/event/event_images/1619/Neon_Themed2.jpg"
+        }
+      ],
+      "category": "NIGHTLIFE",
+      "bar_id": 39,
+      "active": true,
+      "repeat": false,
+      "cost": 0,
+      "priority": null,
+      "cost_note": "15% Off on FnB",
+      "tonite": true,
+      "is_booking_allowed": true,
+      "confirmed": null,
+      "confirmed_at": null,
+      "updated_by_bar_admin": false,
+      "subcategories": null,
+      "league": "",
+      "team_a": "",
+      "team_b": "",
+      "status": "ACTIVE"
+    },
+    "bar": {
+      "id": 39,
+      "name": "Anonymous Cafe Bar",
+      "address": "8th Floor, B-3, Cerebrum (D-Mart Building), Kumar IT Park, Opposite Cybage",
+      "city": "Pune",
+      "avg_cost_for_2": 1100,
+      "bar_type": "Lounge Bar",
+      "price_range": "₹₹ (1000/- to 2000/-)",
+      "avg_rating": 0,
+      "created_at": "2015-08-15T01:10:38.507+05:30",
+      "updated_at": "2015-12-19T12:13:23.389+05:30",
+      "food_menu_images": [
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f1.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f2.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f3.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f4.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f5.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f6.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f7.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f8.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f9.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f10.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f11.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f12.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f13.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f14.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f15.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f16.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f17.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/food_menu_images/39/f18.jpg"
+        }
+      ],
+      "bar_images": [
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_images/39/Bar_Image.jpg"
+        }
+      ],
+      "dance_floor": false,
+      "contact": "584",
+      "bar_menu_images": [
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b1.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b2.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b3.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b4.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b5.jpg"
+        },
+        {
+          "url": "https://brisky-images.s3.amazonaws.com/uploads/bar/bar_menu_images/39/b6.jpg"
+        }
+      ],
+      "opening_hours_days": null,
+      "location_long": "73.9113349",
+      "location_lati": "18.5446978",
+      "short_address": "Kalyani Nagar",
+      "food_recommendation_1": "Veg Platter",
+      "food_recommendation_2": "Mix Platter",
+      "food_recommendation_3": "Non veg Platter",
+      "bar_recommendation_1": "Chiquito (Non Veg)",
+      "bar_recommendation_2": "Waquila",
+      "bar_recommendation_3": "Wicked Broz",
+      "decibel": "High",
+      "email": "",
+      "beer_pint": 150,
+      "status": "ACTIVE"
+    }
+  }
+]
