@@ -1,12 +1,7 @@
 {
   "name":"ANMOL",
-  "array": [
-    1,
-    2,
-    3
-  ],
-  "boolean": true,
-  "null": null,
+  "img_url": "",
+  "banner": "",
   "number": 123,
   "object": {
     "a": "b",
