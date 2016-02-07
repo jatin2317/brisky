@@ -1,72 +1,9 @@
 {
-  "id": 1216,
-  "name": "",
-  "description": "",
-  "date": "2016-02-01",
-  "time": "",
-  "created_at": "2016-02-07T06:25:08.284+05:30",
-  "updated_at": "2016-02-07T06:25:08.284+05:30",
-  "event_images": [
-    {
-      "url": "https://brisky-imgs.s3.amazonaws.com/uploads/event/event_images/1216/1.jpg"
-    }
-  ],
-  "category": "",
-  "bar_id": 26,
-  "active": true,
-  "repeat": "",
-  "cost": "",
-  "priority": "",
-  "cost_note": "",
-  "tonite": false,
-  "is_booking_allowed": false,
-  "confirmed": "",
-  "confirmed_at": "",
-  "updated_by_bar_admin": false,
-  "subcategories": "",
-  "league": "",
-  "team_a": "BATTLE OF BANDS",
-  "team_b": "",
-  "status": "ACTIVE",
-  "bar_details": [
-    {
-      "name": "TGI Friday's",
-      "short_address": "Magarpatta",
-      "id": 26,
-      "location_long": "73.9316803",
-      "location_lati": "18.5193777"
-    }
-  ],
-  "booking_detail": {
-    "id": 489,
-    "pre_couple_entry_fee": null,
-    "pre_couple_cover_charge": null,
-    "pre_male_entry_fee": null,
-    "pre_male_cover_charge": null,
-    "pre_female_entry_fee": null,
-    "pre_female_cover_charge": null,
-    "post_couple_entry_fee": null,
-    "post_couple_cover_charge": null,
-    "post_male_entry_fee": null,
-    "post_male_cover_charge": null,
-    "post_female_entry_fee": null,
-    "post_female_cover_charge": null,
-    "price_differentiating_time": null,
-    "created_at": "2016-02-07T06:25:14.951+05:30",
-    "updated_at": "2016-02-07T06:25:14.958+05:30",
-    "event_id": 1216,
-    "sports_event_id": null,
-    "number_of_tickets_alloted": 0,
-    "last_entry_time": null,
-    "last_booking_time": null,
-    "post_prices_present": false,
-    "stag_allowed": false,
-    "stag_with_couple_allowed": false,
-    "cover_charges": false,
-    "entry_charges": false,
-    "inventory": 0,
-    "ladies_allowed": false,
-    "couple_allowed": false,
-    "ladies_with_couple_allowed": false
-  }
+  "name": "BATTLE OF BANDS",
+  "img_url": "https://brisky-imgs.s3.amazonaws.com/uploads/event/event_images/1216/1.jpg"
+  "cost":
+  "date":
+  "time":
+  "bar_name":
+  "is_booking_allowed": false
 }
