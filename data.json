@@ -1,1 +1,10 @@
-{"name": "BATTLE OF BANDS","banner": "BANDS","img_url": "https://brisky-imgs.s3.amazonaws.com/uploads/event/event_images/1216/1.jpg","cost":"","date":"","time":"","bar_name":"","is_booking_allowed": false}
+{
+"name":"BATTLE OF BANDS",
+"banner":"BANDS",
+"img_url":"https://brisky-imgs.s3.amazonaws.com/uploads/event/event_images/1216/1.jpg",
+"cost":"",
+"date":"",
+"time":"",
+"bar_name":"",
+"is_booking_allowed":false
+}
